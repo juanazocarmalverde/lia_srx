@@ -71,6 +71,7 @@ if (module === require.main) {
   app.listen(PORT, () => {
     console.log(`App listening on port ${PORT}`);
     console.log('Press Ctrl+C to quit.');
+    console.log('Nueva version');
   });
   // [END listen]
 }
