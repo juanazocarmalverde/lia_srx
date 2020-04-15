@@ -18,7 +18,7 @@ env: flex
 endpoints_api_service:
   # The following values are to be replaced by information from the output of
   # 'gcloud endpoints services deploy openapi-appengine.yaml' command.
-  name: reverse-logistics
+  name: reverse-logisticss
   rollout_strategy: managed
 
 automatic_scaling:
